@@ -47,3 +47,7 @@ hr {
   padding: 1rem 2rem;
 }
 
+.animate__fadeIn {
+  --animate-duration: 3s;
+}
+
